@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Flying-Pink Cushion",
+	"category": "client",
+	"description": "This mod removes all the fluffer from the Flying Carpet mount and recolors the cushion to be pink ! It’s for all your sitting, flying, aesthetic needs ! Only works on the Flying Carpet mount",
+	"author": "Panty",
+	"options": {
+		"niceName": "Flying Pink Cushion"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Flying-Pink Cushion"
+	]
+}
