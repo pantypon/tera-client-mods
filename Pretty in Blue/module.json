@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pretty-in-Blue",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Pretty in Blue"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pretty%20in%20Blue"
+	]
+}

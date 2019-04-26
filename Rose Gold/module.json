@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Rose-Gold",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Rose Gold"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Rose%20Gold"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Pink-Social-Dress",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Elin Pink Social Dress"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Pink%20Social%20Dress"
+	]
+}

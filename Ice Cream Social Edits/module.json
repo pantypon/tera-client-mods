@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Ice-Cream-Social-Edits",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Ice Cream Social Edits"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Edits"
+	]
+}

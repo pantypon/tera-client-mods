@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Dyeable-Housekeeper-Fix",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Dyeable Housekeeper Fix"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Dyeable%20Housekeeper%20Fix"
+	]
+}

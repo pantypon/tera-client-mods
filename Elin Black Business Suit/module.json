@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Black-Business-Suit",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Elin Black Business Suit"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Black%20Business%20Suit"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Whiter-Dyeable-Raincoat-Accents",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Whiter Dyeable Raincoat Accents"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Whiter%20Dyeable%20Raincoat%20Accents"
+	]
+}

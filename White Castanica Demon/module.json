@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "White-Castanica-Demon",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "White Castanica Demon"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Castanica%20Demon"
+	]
+}

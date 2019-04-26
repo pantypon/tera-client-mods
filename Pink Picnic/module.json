@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Picnic",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Pink Picnic"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Picnic"
+	]
+}

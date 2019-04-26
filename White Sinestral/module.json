@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "White-Sinestral",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "White Sinestral"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Sinestral"
+	]
+}
