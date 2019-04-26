@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "White-Pantyhose",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "White Pantyhose"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Pantyhose"
+	]
+}

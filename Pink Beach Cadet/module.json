@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Beach-Cadet",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Pink Beach Cadet"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Beach%20Cadet"
+	]
+}

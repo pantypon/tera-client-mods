@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Strawberry-Maid",
+	"category": "client",
+	"description": "Placeholder",
+	"author": "Panty",
+	"options": {
+		"niceName": "Strawberry Maid"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Strawberry%20Maid"
+	]
+}
