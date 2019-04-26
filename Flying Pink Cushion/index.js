@@ -1,4 +1,3 @@
-const path = require('path')
-module.exports = function Flying Pink Cushion(mod) {
-    mod.installGPK(Vehicle_Carpet.gpk);
+module.exports = function Fairy_Stump(mod) {
+    mod.installGPK("Vehicle_Beetle.gpk");
 }

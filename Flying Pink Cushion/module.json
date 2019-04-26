@@ -1,13 +1,13 @@
 {
 	"disableAutoUpdate": false,
-	"name": "Flying-Pink Cushion",
+	"name": "Fairy-Stump",
 	"category": "client",
-	"description": "This mod removes all the fluffer from the Flying Carpet mount and recolors the cushion to be pink ! It’s for all your sitting, flying, aesthetic needs ! Only works on the Flying Carpet mount",
+	"description": "This mod removes the black beetle from the Buzzer mount, leaving only the patch of flowers and tree stump along with the umbrella leaf ! The magical butterflies fly all around you ! Perfect for your fairy needs ~ Only works on Buzzer",
 	"author": "Panty",
 	"options": {
-		"niceName": "Flying Pink Cushion"
+		"niceName": "Fairy Stump"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Flying-Pink Cushion"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Fairy-Stump"
 	]
 }
