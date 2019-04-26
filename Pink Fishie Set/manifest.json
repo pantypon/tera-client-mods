@@ -1,9 +1,11 @@
 {
 	"files": {
-		"Fishing_Float.gpk": "fab4ca738d613f0ccb5bcd6de54127603928d39519b23688dedfbb9cddebac64",
-		"Fishing_Flyrod.gpk": "0aa87ddd08236af5c73ff6d8bd798f7f7d164649123a9fd8a22926f49dd08cc6",
-		"TERA_ScreenShot_20181212_004455.png": "fe4a04258b4337d3e36e5cdfd258b566e4209ffe0d8b272ff013ad7dcda3de3e",
-		"index.js": "671718e11940673a98260cb2e06ecd148c9ad7b83f6bbd88183b8810605f5410",
-		"module.json": "fb1adeb2041d3c8c2ee1674f20030d2d1716e839dc8baaf18b5472ee3b99c0a9"
+		"Awaken_Booster.gpk": "8314b3238b5434a905424d5cbaaa76d4dc7445a33fc3cbf137ca4aa371d6d9c3",
+		"Battle Bunny Model.png": "999b4c66f77337c8ea1577983586d64a1741a707d9be047e8f6e9ad983d592b0",
+		"TERA_ScreenShot_20181021_141319.png": "309fca4984ef1bfdde84cc4f2f42f17454ae72d5206daf5348bc6047781b30e8",
+		"TERA_ScreenShot_20181021_141325.png": "188e2813e67400d85d49c3239d845f065d386217533958480e2ec256f46b9bdc",
+		"TERA_ScreenShot_20181021_141335.png": "ec62bc452ac93f77cad73f23a110595d2039e588b2e45809c06dba07c6b9f22f",
+		"index.js": "68a01aab97fa6ba5823eef68feb78e7ab93bf7f190d089ab703e6be49f5e44e0",
+		"module.json": "4d81eaa808c72820744136f59da0d37ccd5e7a79f0fb68ec7bf41bf721b3e7b7"
 	}
 }
