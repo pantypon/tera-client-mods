@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Elin Whiter Blouse",
 		"niceName": "Elin Whiter Blouse"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Whiter%20Blouse"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Whiter%20Blouse/"
 	]
 }

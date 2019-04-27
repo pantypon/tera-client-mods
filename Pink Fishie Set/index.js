@@ -1,3 +1,4 @@
-module.exports = function Battle_Bunny_Gunner_Mech(mod) {
-    mod.installGPK("Awaken_Booster.gpk");
+module.exports = function Pink_Fishie_Set(mod) {
+    mod.installGPK("Fishing_Float.gpk");
+    mod.installGPK("Fishing_Flyrod.gpk");
 }

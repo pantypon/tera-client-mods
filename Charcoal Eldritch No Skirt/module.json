@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Charcoal Eldritch No Skirt",
 		"niceName": "Charcoal Eldritch No Skirt"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Charcoal%20Eldritch%20No%20Skirt"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Charcoal%20Eldritch%20No%20Skirt/"
 	]
 }

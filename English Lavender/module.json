@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: English Lavender",
 		"niceName": "English Lavender"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/English%20Lavender"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/English%20Lavender/"
 	]
 }

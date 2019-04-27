@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Elin Pink Social Dress",
 		"niceName": "Elin Pink Social Dress"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Pink%20Social%20Dress"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Pink%20Social%20Dress/"
 	]
 }

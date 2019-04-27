@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Whiter Dyeable Raincoat Accents",
 		"niceName": "Whiter Dyeable Raincoat Accents"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Whiter%20Dyeable%20Raincoat%20Accents"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Whiter%20Dyeable%20Raincoat%20Accents/"
 	]
 }

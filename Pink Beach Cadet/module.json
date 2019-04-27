@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Pink Beach Cadet",
 		"niceName": "Pink Beach Cadet"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Beach%20Cadet"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Beach%20Cadet/"
 	]
 }

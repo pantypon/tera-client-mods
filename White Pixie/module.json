@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: White Pixie",
 		"niceName": "White Pixie"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Pixie"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Pixie/"
 	]
 }

@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Pastel Pora Elinu Uniform",
 		"niceName": "Pastel Pora Elinu Uniform"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pastel%20Pora%20Elinu%20Uniform"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pastel%20Pora%20Elinu%20Uniform/"
 	]
 }

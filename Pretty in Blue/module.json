@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Pretty in Blue",
 		"niceName": "Pretty in Blue"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pretty%20in%20Blue"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pretty%20in%20Blue/"
 	]
 }

@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: White Castanica Demon",
 		"niceName": "White Castanica Demon"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Castanica%20Demon"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Castanica%20Demon/"
 	]
 }

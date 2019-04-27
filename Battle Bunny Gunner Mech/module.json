@@ -2,12 +2,13 @@
 	"disableAutoUpdate": false,
 	"name": "Battle-Bunny-Gunner-Mech",
 	"category": "client",
-	"description": "For Gunner awakened mecha buddy ! Turns it cute pastel pink and adds bunnies, strawberries, sparkles, and stars all over",
+	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Battle Bunny Gunner Mech",
 		"niceName": "Battle Bunny Gunner Mech"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Battle%20Bunny%20Gunner%20Mech"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Battle%20Bunny%20Gunner%20Mech/"
 	]
 }

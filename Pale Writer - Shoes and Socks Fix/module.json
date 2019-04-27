@@ -5,9 +5,10 @@
 	"description": "Placeholder",
 	"author": "Panty",
 	"options": {
+		"guiName": "Costume: Pale Writer - Shoes and Socks Fix",
 		"niceName": "Pale Writer - Shoes and Socks Fix"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pale%20Writer%20-%20Shoes%20and%20Socks%20Fix"
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pale%20Writer%20-%20Shoes%20and%20Socks%20Fix/"
 	]
 }
