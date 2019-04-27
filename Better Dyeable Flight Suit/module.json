@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "Better-Dyeable-Flight-Suit",
 	"category": "client",
-	"description": "Placeholder",
+	"description": "Changes the yellow bits into dyeable bits. Females only",
 	"author": "Panty",
 	"options": {
 		"guiName": "Costume: Better Dyeable Flight Suit",

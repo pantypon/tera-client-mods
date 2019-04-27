@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Whiter-Dyeable-Ice-Cream-Social",
+	"category": "client",
+	"description": "Makes the Dyeable Picnic Dress have whiter accents to be less dark gray.",
+	"author": "Panty",
+	"options": {
+		"guiName": "Costume: Elin Whiter Dyeable Ice Cream Social",
+		"niceName": "Elin Whiter Dyeable Ice Cream Social"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Whiter%20Dyeable%20Ice%20Cream%20Social/"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Castanic-Sleepy-Running-Togs",
+	"category": "client",
+	"description": "Makes the Red Running Togs for Castanics be pale pink have some mish-mashed cutesie designs on it",
+	"author": "Panty",
+	"options": {
+		"guiName": "Costume: Castanic Sleepy Running Togs",
+		"niceName": "Castanic Sleepy Running Togs"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Castanic%20Sleepy%20Running%20Togs/"
+	]
+}

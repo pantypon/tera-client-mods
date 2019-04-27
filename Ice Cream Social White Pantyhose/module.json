@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Ice-Cream-Social-White-Pantyhose",
+	"category": "client",
+	"description": "Ice Cream Social dress changed to have white pantyhose",
+	"author": "Panty",
+	"options": {
+		"guiName": "Costume: Ice Cream Social White Pantyhose",
+		"niceName": "Ice Cream Social White Pantyhose"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20White%20Pantyhose/"
+	]
+}

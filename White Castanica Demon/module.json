@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "White-Castanica-Demon",
 	"category": "client",
-	"description": "Placeholder",
+	"description": "Makes the leather white, the collar pink, the shoes white AND removes the studs, spikes, straps, and stars",
 	"author": "Panty",
 	"options": {
 		"guiName": "Costume: White Castanica Demon",

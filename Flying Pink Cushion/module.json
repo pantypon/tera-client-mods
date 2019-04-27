@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "Flying-Pink-Cushion",
 	"category": "client",
-	"description": "Placeholder",
+	"description": "For the Flying Carpet mount. Removes the carpet and chair accessories, leaving a pink cushion floating midair!",
 	"author": "Panty",
 	"options": {
 		"guiName": "Costume: Flying Pink Cushion",

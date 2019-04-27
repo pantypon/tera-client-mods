@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "White-Pixie",
 	"category": "client",
-	"description": "Placeholder",
+	"description": "Turns all the gold accents to be a white, also whitens other aspects of the costume to not be dark gray",
 	"author": "Panty",
 	"options": {
 		"guiName": "Costume: White Pixie",

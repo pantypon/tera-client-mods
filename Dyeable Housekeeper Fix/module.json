@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "Dyeable-Housekeeper-Fix",
 	"category": "client",
-	"description": "Placeholder",
+	"description": "Dyeable Housekeeper changed to have dyeable bows, and shoe soles; also makes panties white instead of black.",
 	"author": "Panty",
 	"options": {
 		"guiName": "Costume: Dyeable Housekeeper Fix",

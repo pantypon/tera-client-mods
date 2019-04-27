@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin-Strawberry-Maid",
+	"category": "client",
+	"description": "Turns the brown Elin 2017 Maid Costume into pink with a cute plaid heart pattern on the stockings and dress.",
+	"author": "Panty",
+	"options": {
+		"guiName": "Costume: Elin Strawberry Maid",
+		"niceName": "Elin Strawberry Maid"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Strawberry%20Maid/"
+	]
+}
