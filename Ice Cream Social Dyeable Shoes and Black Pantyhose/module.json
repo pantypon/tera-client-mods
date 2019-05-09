@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Ice-Cream-Social-Dyeable-Shoes-and-Black-Pantyhose",
+	"category": "client",
+	"description": "Ice Cream Social dress changed to have Dyeable Shoes",
+	"author": "Panty",
+	"options": {
+		"guiName": "Costume: Ice Cream Social Dyeable Shoes and Black Pantyhose",
+		"niceName": "Ice Cream Social Dyeable Shoes and Black Pantyhose"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Dyeable%20Shoes%20and%20Black%20Pantyhose/"
+	]
+}
